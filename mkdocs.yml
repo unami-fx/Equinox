@@ -5,7 +5,16 @@ nav:
     - About: guide/about.md
     - Installation: guide/installation.md
     - Workflow: guide/workflow.md
+    - MIDI & Devices: guide/devices.md
+    - Scenes: guide/scenes.md
+    - Master effects chain: guide/effects.md
+    - Compositing: guide/compositing.md
+    - Macro system: guide/macros.md
+    - Grading: guide/grading.md
+    - Output: guide/output.md
+    - Exporting: guide/export.md
   - Downloads: downloads.md
+  - Release notes: changelog.md
 
 theme: 
   name: material
