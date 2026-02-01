@@ -1,17 +1,35 @@
-# Equinox
+# Equinox Manual
 
-## Introduction
-Equinox is a VJ deck for TouchDesigner.
+Welcome to the manual for Equinox, a multimedia VJ suite for TouchDesigner.
 
-![equinox](assets/VJ-1.png)
+## Getting started
 
-## Features
-* __Master effects chain__ - Equinox has a library of effects that can be inserted into the master effects chain. These effects can be rearranged and edited.
-* __Media compositor__ - Equinox has an integrated, multimedia compositor with adjustable decks and columns that mixes clips with the main signal. Each deck has its own designated effects chain, allowing for modular, creative experimentation.
-* __Grading suite__ - Color grading tools
-* __Macro system__ - Simultaneous modulation of different parameters, with filters to affect the output signal. Each export can be enabled or disabled. Macros can be controlled by MIDI.
-* __Camera viewport__ - Camera viewport allow for camera adjustments and scene adjustments while VJ-ing live. <br>
+<div class="grid cards" markdown>
+
+- [![About](/assets/splash-1.jpg)
+  **About Us**  
+  About Equinox
+  ](/guide/about/)
+
+- [![User manual](/assets/splash-1.jpg)
+  **User manual**  
+  User guide for UFX
+  ](/guide/installation/)
+
+- [![Download](/assets/splash-1.jpg)
+  **Downloads**  
+  Latest release
+  ](/downloads)
+
+- [![Changelog](/assets/splash-1.jpg)
+  **Release Notes**  
+  Changelog and past updates
+  ](/changelog)
+
+</div>
 
 ## Contact & enquires:
 
-jayy.zx on Discord
+Email: jjwu180310@gmail.com<br>
+Discord: u.nami<br>
+[Discord server](https://discord.gg/WBNr8h6ac3)<br>

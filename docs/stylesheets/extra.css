@@ -5,20 +5,30 @@
   --md-primary-fg-color--dark:  #90030C;
 
   /*font schemes*/
-  --md-text-font: "Telex";
-  --md-default-fg-color: #e3e4da;
-  --md-default-fg-color--light: #c9c5bb;
-  --md-default-fg-color--lighter: #c9c7bb;
+  /*--md-text-font: "Telex";*/
+  --md-default-fg-color: #e7e7e7;
+  --md-default-fg-color--light: #cccccc;
+  --md-default-fg-color--lighter: #c7c7c7;
 }
 
 [data-md-color-scheme="slate"] {
   /*--md-hue: 210;*/
-    background-color: #1f1f1f
+    background-color: rgb(20, 20, 22)
 }
 
+/* Normal links */
+.md-typeset a {
+  color: #0074e9;
+}
+
+.md-typeset .grid.cards a {
+  color: #e3e4da;          /* normal text */
+}
+
+/*
 @font-face {
   font-family: "Telex";
-  /*src:  url("../font/Telex/Telex-Regular.ttf") format('truetype');*/
-  src:  url("../font/PT_Sans/PTSans-Regular.ttf") format('truetype');
+  src:  url("../font/Arimo/static/Arimo-Regular.ttf") format('truetype');
 
 }
+*/
