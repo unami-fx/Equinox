@@ -6,25 +6,25 @@ Welcome to the manual for Equinox, a multimedia VJ suite for TouchDesigner.
 
 <div class="grid cards" markdown>
 
-- [![About](/docs/assets/splash-1.jpg)
+- [![About](assets/splash-1.jpg)
   **About Us**  
   About Equinox
-  ](/guide/about/)
+  ](guide/about.md)
 
-- [![User manual](/docs/assets/splash-1.jpg)
+- [![User manual](assets/splash-1.jpg)
   **User manual**  
   User guide for UFX
-  ](/guide/installation/)
+  ](guide/installation.md)
 
-- [![Download](/docs/assets/splash-1.jpg)
+- [![Download](assets/splash-1.jpg)
   **Downloads**  
   Latest release
-  ](/downloads)
+  ](downloads.md)
 
-- [![Changelog](/docs/assets/splash-1.jpg)
+- [![Changelog](assets/splash-1.jpg)
   **Release Notes**  
   Changelog and past updates
-  ](/changelog)
+  ](changelog.md)
 
 </div>
 
