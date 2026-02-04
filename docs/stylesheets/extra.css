@@ -18,6 +18,10 @@
   color: #0074e9;
 }
 
+.md-typeset {
+  font-size: 0.75rem; 
+}
+
 .md-typeset .grid.cards a {
   color: #e3e4da;          /* normal text */
 }

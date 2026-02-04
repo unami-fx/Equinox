@@ -8,6 +8,7 @@ Equinox is a sole developer project still in alpha development.<br>
 <small>Equinox, alpha v1.0.0.</small>
 
 ## Features
+
 * __Master effects chain__ - Equinox has a library of effects that can be inserted into the master effects chain. These effects can be rearranged and edited.
 * __Media compositor__ - Equinox has an integrated, multimedia compositor with adjustable decks and columns that mixes clips with the main signal. Each deck has its own designated effects chain, allowing for modular, creative experimentation.
 * __Grading suite__ - Color grading tools
@@ -15,6 +16,7 @@ Equinox is a sole developer project still in alpha development.<br>
 * __Camera viewport__ - Camera viewport allow for camera adjustments and scene adjustments while VJ-ing live. <br>
 
 ## Planned features
+
 * Saving/loading projects
 * Saving/loading effect presets on the go
 * Fully mappable MIDI interface
@@ -25,8 +27,11 @@ Equinox is a sole developer project still in alpha development.<br>
 * BPM Sync / envelopes
 * VRAM optimisation (somehow...)
 
+![img](../assets/compositor2.png)<br>
+<small>I wanted to include this image because I thought it was funny</small>
+
 ## Background
 
 Equinox is a sole developer project by me (unami). I'm a 15 year-old student and TouchDesigner artist, and a creative artist for PAREIDOLIA. To support our work, consider testing our software!
 
-Equinox was developed for PAREIDOLIA, a nightclub host delivering audioreactive, synthetic visuals and raising humanitarian aid for MAP and Gazan soup kitchens. You can view our works [here]("https://www.instagram.com/pareidolia.collective/")!
+Equinox was developed for PAREIDOLIA, a nightclub host delivering audioreactive, synthetic visuals and raising humanitarian aid for MAP and Gazan soup kitchens. You can view our works [here](https://www.instagram.com/pareidolia.collective/)!

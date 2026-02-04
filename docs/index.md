@@ -13,17 +13,17 @@ Welcome to the manual for Equinox, a multimedia VJ suite for TouchDesigner.
 
 <div class="grid cards" markdown>
 
-  - [![User interface](assets/ui1.jpg)
+  - [![User interface](assets/splash-1.jpg)
   **User Interface**  
   About Equinox
   ](guide/about.md)
 
-- [![Scenes](assets/splash-1.jpg)
+- [![Scenes]()
   **Scenes**  
   Scenes
   ](guide/scenes.md)
 
-  - [![Effects pipeline](assets/ui1.jpg)
+  - [![Effects pipeline]()
   **Effects Pipeline**  
   About Equinox
   ](guide/effects.md)
@@ -33,7 +33,7 @@ Welcome to the manual for Equinox, a multimedia VJ suite for TouchDesigner.
   User guide for UFX
   ](guide/compositing.md)
 
-  - [![Grading](assets/visual2.jpg)
+  - [![Grading]()
   **Grading**  
   User guide for UFX
   ](guide/grading.md)
