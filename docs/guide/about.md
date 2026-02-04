@@ -1,7 +1,7 @@
 ## About Equinox
 Equinox is a modular, multimedia application created in TouchDesigner, designed for real-time compositing, VJ-ing and audioreactive performances. Equinox implements a comprehensive workflow and interface that makes VJ-ing easier and more accessible for artists.<br>
 
-Equinox is still within the alpha development stage.<br>
+Equinox is a sole developer project still in alpha development.<br>
 
 
 ![equinox](../assets/VJ-1.png)
@@ -19,6 +19,14 @@ Equinox is still within the alpha development stage.<br>
 * Saving/loading effect presets on the go
 * Fully mappable MIDI interface
 * More integrated and configurable audio analysis
+* More control over compositing & programming clips
 * General optimisations
 * Set automatable cue points for videos
 * BPM Sync / envelopes
+* VRAM optimisation (somehow...)
+
+## Background
+
+Equinox is a sole developer project by me (unami). I'm a 15 year-old student and TouchDesigner artist, and a creative artist for PAREIDOLIA. To support our work, consider testing our software!
+
+Equinox was developed for PAREIDOLIA, a nightclub host delivering audioreactive, synthetic visuals and raising humanitarian aid for MAP and Gazan soup kitchens. You can view our works [here]("https://www.instagram.com/pareidolia.collective/")!

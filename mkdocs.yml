@@ -1,5 +1,4 @@
-site_name: Equinox
-
+site_name: Equinox Manual
 theme: 
   name: material
   palette:
@@ -8,12 +7,12 @@ theme:
     accent: custom
   features:
     - navigation.footer
+    - navigation.indexes
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.instant
-
-  logo: assets/logo.png
+  logo: brand/logo-medium.png
 
 nav:
   - Home: index.md
@@ -21,14 +20,14 @@ nav:
   - Guide:
     - Installation: guide/installation.md
     - Workflow: guide/workflow.md
-    - MIDI & Devices: guide/devices.md
     - Scenes: guide/scenes.md
     - Effects: guide/effects.md
     - Compositing: guide/compositing.md
-    - Macro system: guide/macros.md
     - Grading: guide/grading.md
+    - Macros: guide/macros.md
+    - External control: guide/devices.md
     - Output: guide/output.md
-    - Exporting: guide/export.md
+    - Exports: guide/export.md
   - Effects:
     - Cards: effects/cards.md
     - Generators: effects/generators.md
@@ -53,12 +52,12 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
           
 extra:
-  homepage: https://unami-fx.github.io/Equinox/
+  homepage: ""
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/pareidolia.collective/
     - icon: fontawesome/brands/discord
-      link: https://example.com
+      link: https://discord.gg/WBNr8h6ac3
 
 copyright: Copyright © 2026 PAREIDOLIA
 

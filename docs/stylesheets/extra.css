@@ -22,10 +22,18 @@
   color: #e3e4da;          /* normal text */
 }
 
+.md-sidebar--secondary {
+    width: 180px;  /* adjust independently */
+}
 
 .md-sidebar .md-nav__link--active {
   color: #f10000 !important;
 }
+
+.md-typeset .params-small + ul {
+  font-size: 0.85em;
+}
+
 /*
 @font-face {
   font-family: "Telex";
