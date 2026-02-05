@@ -37,7 +37,13 @@ You can customize how layers are overlayed by changing the blend mode. The blend
 
 ![img](../assets/guide/layer-playback.png)<br>
 
-The skip buttons transverse through the layer's active clips. By default, it skips over empty clip slots.<br>
+The play and pause buttons, you guessed it, plays and pauses the clip.
+
+The speed slider adjusts the speed.
+
+The skip buttons transverse through the layer's clips. By default, it skips over empty clip slots.<br>
+
+The bottom slider shows the clip progress.
 
 ### Clip manager
 
