@@ -1,5 +1,9 @@
 # Workflow
 
+### User interface
+
+Equinox implements a traditional VJ user interface to allow for the ease of real-time VJ-ing in TouchDesigner.
+
 ### Pipeline
 
 Equinox implements a five-stage pipeline to generate real-time visual output. Equinox utilises Derivative's built-in Scene Changer from the pallette to handle scenes. All scenes are stored in the '/scenes' directory. The scene's output is routed to the Scene Changer at the start of the pipeline.<br>
@@ -12,7 +16,6 @@ graph LR
   D[Grading] --> E;
   E[Output];
 ```
-
 
 ### FX Stages
 &nbsp;1. __Scene__ - Final video corrections and color grading<br>
