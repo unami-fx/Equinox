@@ -32,6 +32,6 @@ Equinox is a sole developer project still in alpha development.<br>
 
 ## Background
 
-Equinox is a sole developer project by me (unami). I'm a 15 year-old student and TouchDesigner artist, and a creative artist for PAREIDOLIA. To support our work, consider testing our software!
+Equinox is a sole developer project by me (unami). I'm a 16 year-old student and TouchDesigner artist, and a creative artist for PAREIDOLIA. To support our work, consider testing our software!
 
 Equinox was developed for PAREIDOLIA, a nightclub host delivering audioreactive, synthetic visuals and raising humanitarian aid for MAP and Gazan soup kitchens. You can view our works [here](https://www.instagram.com/pareidolia.collective/)!
