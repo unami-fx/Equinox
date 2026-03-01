@@ -31,19 +31,21 @@ The alpha slider controls the alpha of the clip.<br>
 
 ### Blend mode
 
-You can customize how layers are overlayed by changing the blend mode. The blend mode determines how layers are overlayed with each other.
+You can customize how layers are blended together by changing the blend mode. The blend mode determines how layers are overlaid with each other.
 
 ### Playback controls
 
-![img](../assets/guide/layer-playback.png)<br>
+![img](../assets/guide/layer-playback.png)
 
-The play and pause buttons, you guessed it, plays and pauses the clip.
+Each layer has a set of playback controls that control video playback. From top to bottom, are the controls listed:
 
-The speed slider adjusts the speed.
+- **Play/pause** —  Controls whether the layer's clip is actively playing.
 
-The skip buttons transverse through the layer's clips. By default, it skips over empty clip slots.<br>
+- **Speed slider** —  Adjusts the playback rate of the current clip. Greater values speeds up playback, and vice versa.
 
-The bottom slider shows the clip progress.
+- **Skip buttons** —  transverse through the layer's clips. By default, it skips over empty clip slots.
+
+- **Scrubber** —  shows the clip progress, and acts as a mini-scrubber.
 
 ### Clip manager
 
@@ -53,17 +55,17 @@ On the lower deck of the VJ, next to the effects library, is the clip manager. T
 
 ### Playback
 
-- __Blend mode__ - Control blend mode<br>
-- __Speed__ - Adjust speed of clip<br>
-- __Trim start__ - How much of the clip is cut at the beginning<br>
-- __Trim end__ - How much of the clip is cut at the end<br>
+- **Blend mode** — Controls how the clip blends with the layers beneath it. Different blend modes interact with colos
+- **Speed** — Adjusts the playback rate of the current clip. Greater values speeds up playback, and vice versa.es below 1x slow it down. Negative values play the clip in reverse.
+- **Trim start** — Sets how much of the beginning of the clip is cut off before playback begins. Increasing this value causes playback to start further into the clip.
+- **Trim end** — Sets how much of the end of the clip is cut off. Decreasing this value causes playback to stop earlier, shortening the effective clip length.
 
 ### Transform
 
-- __Translate X__ - Translation in the x-axis<br>
-- __Translate Y__ - Translation in the y-axis<br>
-- __Rotation__ - Degree of rotation, in degrees<br>
-- __Scale__ - Degree of scale<br>
+- **Translate X** — Moves the clip horizontally along the x-axis.
+- **Translate Y** — Moves the clip vertically along the y-axis.
+- **Rotation** — Rotates the clip around its center point, measured in degrees. Values range from 0° to 360°.
+- **Scale** — Resizes the clip uniformly. Greater values enlarge the clip, and vice versa.
 
 ### Cue points
 

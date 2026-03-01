@@ -23,7 +23,7 @@ Welcome to the manual for Equinox, a multimedia VJ suite for TouchDesigner.
   Scenes
   ](guide/scenes.md)
 
-  - [![Effects pipeline]()
+  - [![Effects pipeline](assets/thumbnail/effects.jpg)
   **Effects Pipeline**  
   About Equinox
   ](guide/effects.md)
@@ -38,7 +38,7 @@ Welcome to the manual for Equinox, a multimedia VJ suite for TouchDesigner.
   User guide for UFX
   ](guide/grading.md)
 
-- [![Macros](assets/macros.jpg)
+- [![Macros](assets/thumbnail/macro.jpg)
   **Macros**  
   Latest release
   ](guide/macros.md)
