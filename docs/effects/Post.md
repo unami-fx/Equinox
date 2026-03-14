@@ -1,359 +1,55 @@
 # Post
 
-## Grain
+## Ambient Bloom
+
+<img src="Ambient Bloom.jpg" width="300"><br>
 
 
 
 ### Parameters
 
-### Custom
+### Pre
 
-<b>Grain intensity</b> `float` - No definition provided<br>
-<b>Size</b> `float` - No definition provided<br>
-<b>Blur</b> `float` - No definition provided<br>
-<b>Monochrome</b> `toggle` - No definition provided<br>
-<b>Operation</b> `menu` - No definition provided<br>
-
-### Level
-
-<b>Invert</b> `float` - No definition provided<br>
+<b>Intensity</b> `float` - No definition provided<br>
+<b>Gamma 1</b> `float` - No definition provided<br>
 <b>Black Level</b> `float` - No definition provided<br>
-<b>Brightness 1</b> `float` - No definition provided<br>
-<b>Gamma 1</b> `float` - No definition provided<br>
-<b>Contrast</b> `float` - No definition provided<br>
-<b>Opacity</b> `float` - No definition provided<br>
-
-## Moire
-
-
-
-### Parameters
-
-### Moire
-
-<b>Moire opacity</b> `float` - No definition provided<br>
-<b>Moire brightness</b> `float` - No definition provided<br>
-
-## Dilate
-
-
-
-### Parameters
-
-### Parameter
-
-<b>Customparam</b> `op` - No definition provided<br>
-
-## Mirror
-
-
-
-### Parameters
-
-### Parameters
-
-<b>Pivot</b> `xyzw2` - No definition provided<br>
-<b>Rotate</b> `float` - No definition provided<br>
-<b>Extend</b> `menu` - No definition provided<br>
-<b>Flip X</b> `toggle` - No definition provided<br>
-<b>Flip Y</b> `toggle` - No definition provided<br>
-
-## Mosiac
-
-
-
-### Parameters
-
-### Pixelate
-
-<b>Square Pixels</b> `toggle` - No definition provided<br>
-<b>Horizontal Pixel Size</b> `int` - No definition provided<br>
-<b>Vertical Pixel Size</b> `int` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## Strobe
-
-
-
-### Parameters
-
-### Strobe
-
-<b>Audio source</b> `op` - No definition provided<br>
-<b>Threshold</b> `float` - No definition provided<br>
-<b>Smoothing</b> `float` - No definition provided<br>
-<b>Intensity</b> `float` - No definition provided<br>
-
-## Fisheye
-
-
-
-### Parameters
-
-### Parameters
-
-<b>Scale</b> `float` - No definition provided<br>
-<b>Radius</b> `xyzw3` - No definition provided<br>
-
-## Flicker
-
-
-
-### Parameters
-
-### FX
-
-<b>Period</b> `float` - No definition provided<br>
-<b>Exponent</b> `float` - No definition provided<br>
-<b>Amplitude</b> `float` - No definition provided<br>
-<b>Smoothing</b> `float` - No definition provided<br>
-
-## Sharpen
-
-
-
-### Parameters
-
-### Sharpen
-
-<b>Sharpen Amount</b> `float` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## Feedback
-
-
-
-### Parameters
-
-### Feedback
-
-<b>Operation</b> `menu` - No definition provided<br>
-<b>Flush</b> `pulse` - No definition provided<br>
-<b>Invert</b> `float` - No definition provided<br>
-<b>Black level</b> `float` - No definition provided<br>
-<b>Brightness</b> `float` - No definition provided<br>
-<b>Gamma</b> `float` - No definition provided<br>
-<b>Contrast</b> `float` - No definition provided<br>
-<b>Opacity</b> `float` - No definition provided<br>
-<b>Dry/wet mix</b> `float` - No definition provided<br>
-
-### Transform
-
-<b>Scale</b> `xyzw2` - No definition provided<br>
-<b>T</b> `xyzw2` - No definition provided<br>
-<b>Rotate</b> `float` - No definition provided<br>
-
-## Solarize
-
-
-
-### Parameters
-
-### Solarize
-
-<b>Light Threshold</b> `float` - No definition provided<br>
-<b>Light Softness</b> `float` - No definition provided<br>
-<b>Dark Threshold</b> `float` - No definition provided<br>
-<b>Dark Softness</b> `float` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## Vignette
-
-
-
-### Parameters
-
-### Custom
-
-<b>Vignette intensity</b> `float` - No definition provided<br>
-<b>Vignette width</b> `float` - No definition provided<br>
-<b>Softness</b> `float` - No definition provided<br>
-
-## Lens_Blur
-
-
-
-### Parameters
-
-### Custom
-
-<b>Type</b> `menu` - No definition provided<br>
-<b>Width</b> `float` - No definition provided<br>
-<b>Blur width</b> `int` - No definition provided<br>
-
-## Lens_Dirt
-
-
-
-### Parameters
-
-### FX
-
-<b>Threshold</b> `float` - No definition provided<br>
-<b>Blur</b> `float` - No definition provided<br>
-<b>Monochrome</b> `float` - No definition provided<br>
-<b>Brightness 1</b> `float` - No definition provided<br>
-<b>Opacity</b> `float` - No definition provided<br>
-
-### Texture
-
-<b>Lens dirt texture</b> `file` - No definition provided<br>
-<b>Brightness 1</b> `float` - No definition provided<br>
-<b>Gamma 1</b> `float` - No definition provided<br>
-<b>Contrast</b> `float` - No definition provided<br>
-
-## Letterbox
-
-
-
-### Parameters
-
-### Custom
-
-<b>Ratio</b> `float` - No definition provided<br>
-
-## Posterize
-
-
-
-### Parameters
-
-### FX
-
-<b>Step Size</b> `float` - No definition provided<br>
-<b>Threshold</b> `float` - No definition provided<br>
-<b>Clamp Low</b> `float` - No definition provided<br>
-<b>Clamp High</b> `float` - No definition provided<br>
-<b>Soften</b> `float` - No definition provided<br>
-
-## RGBA_Blur
-
-
-
-### Parameters
-
-### RGBA Blur
-
-<b>Red Pre-shrink</b> `int` - No definition provided<br>
-<b>Red Filter Size</b> `int` - No definition provided<br>
-<b>Green Pre-shrink</b> `int` - No definition provided<br>
-<b>Green Filter Size</b> `int` - No definition provided<br>
-<b>Blue Pre-shrink</b> `int` - No definition provided<br>
-<b>Blue Filter Size</b> `int` - No definition provided<br>
-<b>Alpha from All Blurs</b> `toggle` - No definition provided<br>
-<b>Alpha Pre-shrink</b> `int` - No definition provided<br>
-<b>Alpha Filter Size</b> `int` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## RGB_Bloom
-
-
-
-### Parameters
-
-### Bloom
-
 <b>Dry/wet</b> `float` - No definition provided<br>
-<b>Threshold</b> `float` - No definition provided<br>
-<b>Intensity</b> `float` - No definition provided<br>
-<b>Intensity R</b> `float` - No definition provided<br>
-<b>Gamma R</b> `float` - No definition provided<br>
-<b>Blur R</b> `float` - No definition provided<br>
-<b>Intensity G</b> `float` - No definition provided<br>
-<b>Gamma G</b> `float` - No definition provided<br>
-<b>Blur G</b> `float` - No definition provided<br>
-<b>Intensity B</b> `float` - No definition provided<br>
-<b>Gamma B</b> `float` - No definition provided<br>
-<b>Blur B</b> `float` - No definition provided<br>
-
-### Blur
-
+<b>Color</b> `rgba3` - No definition provided<br>
+<b>Saturation</b> `float` - No definition provided<br>
+<b>Hue Offset</b> `float` - No definition provided<br>
+<b>Blue-shift</b> `float` - No definition provided<br>
+<b>CA</b> `float` - No definition provided<br>
+<b>Blur</b> `float` - No definition provided<br>
 <b>Pyramid Levels</b> `int` - No definition provided<br>
 <b>Resolution</b> `float` - No definition provided<br>
 <b>Blur Per Level</b> `int` - No definition provided<br>
 
-### Pre-levels
+## Anamorphic Bloom
 
-<b>Black Level</b> `float` - No definition provided<br>
-<b>Brightness 1</b> `float` - No definition provided<br>
+<img src="Anamorphic Bloom.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### FX
+
+<b>Intensity</b> `float` - No definition provided<br>
+<b>Blur</b> `float` - No definition provided<br>
+<b>Scale</b> `float` - No definition provided<br>
+<b>Sample step</b> `float` - No definition provided<br>
+<b>Orientation</b> `menu` - No definition provided<br>
+<b>Filter</b> `menu` - No definition provided<br>
 <b>Gamma 1</b> `float` - No definition provided<br>
-<b>Contrast</b> `float` - No definition provided<br>
-
-## RGB_Delay
-
-RGB Delay
-
-### Parameters
-
-### RGBA Delay
-
-<b>Red Delay</b> `int` - No definition provided<br>
-<b>Green Delay</b> `int` - No definition provided<br>
-<b>Blue Delay</b> `int` - No definition provided<br>
-<b>Alpha from All Delays</b> `toggle` - No definition provided<br>
-<b>Alpha Delay</b> `int` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## Scanlines
-
-
-
-### Parameters
-
-### Post
-
-<b>Scanline opacity</b> `float` - No definition provided<br>
-<b>Scanline scaling factor</b> `float` - No definition provided<br>
-<b>Scanline height</b> `float` - No definition provided<br>
-<b>Scanline movement</b> `float` - No definition provided<br>
-<b>Operation</b> `menu` - No definition provided<br>
-
-## Threshold
-
-
-
-### Parameters
-
-### Threshold
-
-<b>Comparator</b> `menu` - No definition provided<br>
-<b>RGB</b> `menu` - No definition provided<br>
-<b>Threshold</b> `float` - No definition provided<br>
-<b>Alpha</b> `menu` - No definition provided<br>
-<b>Soften</b> `float` - No definition provided<br>
-<b>Multiply color</b> `toggle` - No definition provided<br>
+<b>Black Level</b> `float` - No definition provided<br>
+<b>Saturation</b> `float` - No definition provided<br>
+<b>Hue Offset</b> `float` - No definition provided<br>
+<b>CA</b> `float` - No definition provided<br>
+<b>Color</b> `rgba3` - No definition provided<br>
 
 ## BloomRemap
+
+<img src="BloomRemap.jpg" width="300"><br>
 
 
 
@@ -386,7 +82,78 @@ RGB Delay
 <b>Version</b> `str` - No definition provided<br>
 <b>.tox Save Build</b> `str` - No definition provided<br>
 
-## Field_Blur
+## Chromatic Aberration
+
+<img src="Chromatic Aberration.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Image
+
+<b>Aberration method</b> `menu` - No definition provided<br>
+<b>Red offset </b> `float` - No definition provided<br>
+<b>Green offset</b> `float` - No definition provided<br>
+<b>Blue offset</b> `float` - No definition provided<br>
+<b>Distortion factor</b> `float` - No definition provided<br>
+
+## Color Bleed
+
+<img src="Color Bleed.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Color
+
+<b>Color bleed</b> `float` - No definition provided<br>
+<b>Bleed R</b> `float` - No definition provided<br>
+<b>Bleed G</b> `float` - No definition provided<br>
+<b>Bleed B</b> `float` - No definition provided<br>
+
+## Dilate
+
+<img src="Dilate.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Parameter
+
+<b>Customparam</b> `op` - No definition provided<br>
+
+## Feedback
+
+<img src="Feedback.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Feedback
+
+<b>Operation</b> `menu` - No definition provided<br>
+<b>Flush</b> `pulse` - No definition provided<br>
+<b>Invert</b> `float` - No definition provided<br>
+<b>Black level</b> `float` - No definition provided<br>
+<b>Brightness</b> `float` - No definition provided<br>
+<b>Gamma</b> `float` - No definition provided<br>
+<b>Contrast</b> `float` - No definition provided<br>
+<b>Opacity</b> `float` - No definition provided<br>
+<b>Dry/wet mix</b> `float` - No definition provided<br>
+
+### Transform
+
+<b>Scale</b> `xyzw2` - No definition provided<br>
+<b>T</b> `xyzw2` - No definition provided<br>
+<b>Rotate</b> `float` - No definition provided<br>
+
+## Field Blur
+
+<img src="Field Blur.jpg" width="300"><br>
 
 
 
@@ -403,133 +170,47 @@ RGB Delay
 <b>White Filter Width</b> `int` - No definition provided<br>
 <b>Dry/wet</b> `float` - No definition provided<br>
 
-## Modulation
+## FilmicGrain
+
+<img src="FilmicGrain.jpg" width="300"><br>
 
 
 
 ### Parameters
 
-### Point Sprite
+### Custom
 
-<b>Displacement Scale</b> `float` - No definition provided<br>
-<b>Downscale</b> `float` - No definition provided<br>
-<b>Translate X</b> `float` - No definition provided<br>
-<b>Translate Y</b> `float` - No definition provided<br>
-<b>Alpha</b> `float` - No definition provided<br>
-<b>Filter</b> `int` - No definition provided<br>
-<b>Color</b> `rgba3` - No definition provided<br>
-<b>Point size</b> `float` - No definition provided<br>
-<b>Brightness 1</b> `float` - No definition provided<br>
-<b>Step</b> `int` - No definition provided<br>
-<b>Composite over input</b> `toggle` - No definition provided<br>
-<b>Filter background</b> `toggle` - No definition provided<br>
-<b>Use input RGB</b> `toggle` - No definition provided<br>
+<b>Grain intensity</b> `float` - No definition provided<br>
+<b>Size</b> `float` - No definition provided<br>
+<b>Blur</b> `float` - No definition provided<br>
+<b>Monochrome</b> `toggle` - No definition provided<br>
+<b>Operation</b> `menu` - No definition provided<br>
 
-### Pre-levels
+### Level
 
+<b>Invert</b> `float` - No definition provided<br>
 <b>Black Level</b> `float` - No definition provided<br>
 <b>Brightness 1</b> `float` - No definition provided<br>
 <b>Gamma 1</b> `float` - No definition provided<br>
 <b>Contrast</b> `float` - No definition provided<br>
+<b>Opacity</b> `float` - No definition provided<br>
 
-## Tilt_Shift
+## Fisheye
 
-
-
-### Parameters
-
-### Custom
-
-<b>Type</b> `menu` - No definition provided<br>
-<b>Position</b> `float` - No definition provided<br>
-<b>Rotate</b> `float` - No definition provided<br>
-<b>Width</b> `float` - No definition provided<br>
-<b>Blur width</b> `int` - No definition provided<br>
-
-## Color_Bleed
+<img src="Fisheye.jpg" width="300"><br>
 
 
 
 ### Parameters
 
-### Color
-
-<b>Color bleed</b> `float` - No definition provided<br>
-<b>Bleed R</b> `int` - No definition provided<br>
-<b>Bleed G</b> `int` - No definition provided<br>
-<b>Bleed B</b> `int` - No definition provided<br>
-
-## Radial_Blur
-
-
-
 ### Parameters
 
-### Radial Blur
-
-<b>Center Point</b> `xyzw2` - No definition provided<br>
-<b>Samples</b> `int` - No definition provided<br>
-<b>Strength</b> `float` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## Stop_Motion
-
-
-
-### Parameters
-
-### Custom
-
-<b>Stepsize</b> `int` - No definition provided<br>
-
-## RGB_Contrast
-
-
-
-### Parameters
-
-### RGB Contrast
-
-<b>Red</b> `float` - No definition provided<br>
-<b>Green</b> `float` - No definition provided<br>
-<b>Blue</b> `float` - No definition provided<br>
-<b>Dry / Wet Mix</b> `float` - No definition provided<br>
-
-### About
-
-<b>Help</b> `pulse` - No definition provided<br>
-<b>Version</b> `str` - No definition provided<br>
-<b>.tox Save Build</b> `str` - No definition provided<br>
-
-## Ambient_Bloom
-
-
-
-### Parameters
-
-### Pre
-
-<b>Intensity</b> `float` - No definition provided<br>
-<b>Gamma 1</b> `float` - No definition provided<br>
-<b>Black Level</b> `float` - No definition provided<br>
-<b>Dry/wet</b> `float` - No definition provided<br>
-<b>Color</b> `rgba3` - No definition provided<br>
-<b>Saturation</b> `float` - No definition provided<br>
-<b>Hue Offset</b> `float` - No definition provided<br>
-<b>Blue-shift</b> `float` - No definition provided<br>
-<b>CA</b> `float` - No definition provided<br>
-<b>Blur</b> `float` - No definition provided<br>
-<b>Pyramid Levels</b> `int` - No definition provided<br>
-<b>Resolution</b> `float` - No definition provided<br>
-<b>Blur Per Level</b> `int` - No definition provided<br>
+<b>Scale</b> `float` - No definition provided<br>
+<b>Stretch</b> `float` - No definition provided<br>
 
 ## FisheyeLegacy
+
+<img src="FisheyeLegacy.jpg" width="300"><br>
 
 
 
@@ -542,7 +223,98 @@ RGB Delay
 <b>Overlay size</b> `float` - No definition provided<br>
 <b>Overlay softness</b> `float` - No definition provided<br>
 
+## Flicker
+
+<img src="Flicker.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### FX
+
+<b>Period</b> `float` - No definition provided<br>
+<b>Exponent</b> `float` - No definition provided<br>
+<b>Amplitude</b> `float` - No definition provided<br>
+<b>Smoothing</b> `float` - No definition provided<br>
+
+## Grain
+
+<img src="Grain.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Grain intensity</b> `float` - No definition provided<br>
+<b>Size</b> `float` - No definition provided<br>
+<b>Blur</b> `float` - No definition provided<br>
+<b>Monochrome</b> `toggle` - No definition provided<br>
+<b>Operation</b> `menu` - No definition provided<br>
+
+### Level
+
+<b>Invert</b> `float` - No definition provided<br>
+<b>Black Level</b> `float` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Gamma 1</b> `float` - No definition provided<br>
+<b>Contrast</b> `float` - No definition provided<br>
+<b>Opacity</b> `float` - No definition provided<br>
+
+## Lens Blur
+
+<img src="Lens Blur.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Type</b> `menu` - No definition provided<br>
+<b>Width</b> `float` - No definition provided<br>
+<b>Blur width</b> `int` - No definition provided<br>
+
+## Lens Dirt
+
+<img src="Lens Dirt.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### FX
+
+<b>Threshold</b> `float` - No definition provided<br>
+<b>Blur</b> `float` - No definition provided<br>
+<b>Monochrome</b> `float` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Opacity</b> `float` - No definition provided<br>
+
+### Texture
+
+<b>Lens dirt texture</b> `file` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Gamma 1</b> `float` - No definition provided<br>
+<b>Contrast</b> `float` - No definition provided<br>
+
+## Letterbox
+
+<img src="Letterbox.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Ratio</b> `float` - No definition provided<br>
+
 ## MFIMotionBlur
+
+<img src="MFIMotionBlur.jpg" width="300"><br>
 
 
 
@@ -648,7 +420,69 @@ Vector Color: Displays RG Vector Map instead.<br>
 <b>Author</b> `str` - No definition provided<br>
 <b>Version</b> `str` - No definition provided<br>
 
-## Anamorphic_Bloom
+## Mirror
+
+<img src="Mirror.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Parameters
+
+<b>Pivot</b> `xyzw2` - No definition provided<br>
+<b>Rotate</b> `float` - No definition provided<br>
+<b>Extend</b> `menu` - No definition provided<br>
+<b>Flip X</b> `toggle` - No definition provided<br>
+<b>Flip Y</b> `toggle` - No definition provided<br>
+
+## Modulation
+
+<img src="Modulation.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Point Sprite
+
+<b>Displacement Scale</b> `float` - No definition provided<br>
+<b>Downscale</b> `float` - No definition provided<br>
+<b>Translate X</b> `float` - No definition provided<br>
+<b>Translate Y</b> `float` - No definition provided<br>
+<b>Alpha</b> `float` - No definition provided<br>
+<b>Filter</b> `int` - No definition provided<br>
+<b>Color</b> `rgba3` - No definition provided<br>
+<b>Point size</b> `float` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Step</b> `int` - No definition provided<br>
+<b>Composite over input</b> `toggle` - No definition provided<br>
+<b>Filter background</b> `toggle` - No definition provided<br>
+<b>Use input RGB</b> `toggle` - No definition provided<br>
+
+### Pre-levels
+
+<b>Black Level</b> `float` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Gamma 1</b> `float` - No definition provided<br>
+<b>Contrast</b> `float` - No definition provided<br>
+
+## Moire
+
+<img src="Moire.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Moire
+
+<b>Moire opacity</b> `float` - No definition provided<br>
+<b>Moire brightness</b> `float` - No definition provided<br>
+
+## Posterize
+
+<img src="Posterize.jpg" width="300"><br>
 
 
 
@@ -656,18 +490,315 @@ Vector Color: Displays RG Vector Map instead.<br>
 
 ### FX
 
-<b>Intensity</b> `float` - No definition provided<br>
-<b>Scale</b> `float` - No definition provided<br>
-<b>Orientation</b> `menu` - No definition provided<br>
-<b>Filter</b> `menu` - No definition provided<br>
-<b>Gamma 1</b> `float` - No definition provided<br>
-<b>Black Level</b> `float` - No definition provided<br>
-<b>Color</b> `rgba3` - No definition provided<br>
-<b>Saturation</b> `float` - No definition provided<br>
-<b>Hue Offset</b> `float` - No definition provided<br>
-<b>CA</b> `float` - No definition provided<br>
+<b>Step Size</b> `float` - No definition provided<br>
+<b>Threshold</b> `float` - No definition provided<br>
+<b>Clamp Low</b> `float` - No definition provided<br>
+<b>Clamp High</b> `float` - No definition provided<br>
+<b>Soften</b> `float` - No definition provided<br>
 
-## Volumetric_Light
+## Radial Blur
+
+<img src="Radial Blur.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Radial Blur
+
+<b>Center Point</b> `xyzw2` - No definition provided<br>
+<b>Samples</b> `int` - No definition provided<br>
+<b>Strength</b> `float` - No definition provided<br>
+<b>Dry / Wet Mix</b> `float` - No definition provided<br>
+
+### About
+
+<b>Help</b> `pulse` - No definition provided<br>
+<b>Version</b> `str` - No definition provided<br>
+<b>.tox Save Build</b> `str` - No definition provided<br>
+
+## RGB Bloom
+
+<img src="RGB Bloom.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Bloom
+
+<b>Dry/wet</b> `float` - No definition provided<br>
+<b>Threshold</b> `float` - No definition provided<br>
+<b>Intensity</b> `float` - No definition provided<br>
+<b>Intensity R</b> `float` - No definition provided<br>
+<b>Gamma R</b> `float` - No definition provided<br>
+<b>Blur R</b> `float` - No definition provided<br>
+<b>Intensity G</b> `float` - No definition provided<br>
+<b>Gamma G</b> `float` - No definition provided<br>
+<b>Blur G</b> `float` - No definition provided<br>
+<b>Intensity B</b> `float` - No definition provided<br>
+<b>Gamma B</b> `float` - No definition provided<br>
+<b>Blur B</b> `float` - No definition provided<br>
+
+### Blur
+
+<b>Pyramid Levels</b> `int` - No definition provided<br>
+<b>Resolution</b> `float` - No definition provided<br>
+<b>Blur Per Level</b> `int` - No definition provided<br>
+
+### Pre-levels
+
+<b>Black Level</b> `float` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Gamma 1</b> `float` - No definition provided<br>
+<b>Contrast</b> `float` - No definition provided<br>
+
+## RGB Contrast
+
+<img src="RGB Contrast.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### RGB Contrast
+
+<b>Red</b> `float` - No definition provided<br>
+<b>Green</b> `float` - No definition provided<br>
+<b>Blue</b> `float` - No definition provided<br>
+<b>Dry / Wet Mix</b> `float` - No definition provided<br>
+
+### About
+
+<b>Help</b> `pulse` - No definition provided<br>
+<b>Version</b> `str` - No definition provided<br>
+<b>.tox Save Build</b> `str` - No definition provided<br>
+
+## RGBA Blur
+
+<img src="RGBA Blur.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### RGBA Blur
+
+<b>Red Pre-shrink</b> `int` - No definition provided<br>
+<b>Red Filter Size</b> `int` - No definition provided<br>
+<b>Green Pre-shrink</b> `int` - No definition provided<br>
+<b>Green Filter Size</b> `int` - No definition provided<br>
+<b>Blue Pre-shrink</b> `int` - No definition provided<br>
+<b>Blue Filter Size</b> `int` - No definition provided<br>
+<b>Alpha from All Blurs</b> `toggle` - No definition provided<br>
+<b>Alpha Pre-shrink</b> `int` - No definition provided<br>
+<b>Alpha Filter Size</b> `int` - No definition provided<br>
+<b>Dry / Wet Mix</b> `float` - No definition provided<br>
+
+### About
+
+<b>Help</b> `pulse` - No definition provided<br>
+<b>Version</b> `str` - No definition provided<br>
+<b>.tox Save Build</b> `str` - No definition provided<br>
+
+## RGBA Delay
+
+<img src="RGBA Delay.jpg" width="300"><br>
+
+RGB Delay
+
+### Parameters
+
+### RGBA Delay
+
+<b>Red Delay</b> `int` - No definition provided<br>
+<b>Green Delay</b> `int` - No definition provided<br>
+<b>Blue Delay</b> `int` - No definition provided<br>
+<b>Alpha from All Delays</b> `toggle` - No definition provided<br>
+<b>Alpha Delay</b> `int` - No definition provided<br>
+<b>Dry / Wet Mix</b> `float` - No definition provided<br>
+
+### About
+
+<b>Help</b> `pulse` - No definition provided<br>
+<b>Version</b> `str` - No definition provided<br>
+<b>.tox Save Build</b> `str` - No definition provided<br>
+
+## Scanlines
+
+<img src="Scanlines.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Post
+
+<b>Color</b> `rgba3` - No definition provided<br>
+<b>Scanline opacity</b> `float` - No definition provided<br>
+<b>Scale factor</b> `float` - No definition provided<br>
+<b>Line height</b> `float` - No definition provided<br>
+<b>Movement</b> `float` - No definition provided<br>
+<b>Blend mode</b> `menu` - No definition provided<br>
+
+## Sepia
+
+<img src="Sepia.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Post
+
+<b>Monochrome</b> `float` - No definition provided<br>
+<b>Sepia</b> `float` - No definition provided<br>
+<b>Tone hue</b> `float` - No definition provided<br>
+<b>Tone saturation</b> `float` - No definition provided<br>
+
+## Sharpen
+
+<img src="Sharpen.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Sharpen
+
+<b>Sharpen Amount</b> `float` - No definition provided<br>
+<b>Dry / Wet Mix</b> `float` - No definition provided<br>
+
+### About
+
+<b>Help</b> `pulse` - No definition provided<br>
+<b>Version</b> `str` - No definition provided<br>
+<b>.tox Save Build</b> `str` - No definition provided<br>
+
+## Solarize
+
+<img src="Solarize.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Solarize
+
+<b>Light Threshold</b> `float` - No definition provided<br>
+<b>Light Softness</b> `float` - No definition provided<br>
+<b>Dark Threshold</b> `float` - No definition provided<br>
+<b>Dark Softness</b> `float` - No definition provided<br>
+<b>Dry / Wet Mix</b> `float` - No definition provided<br>
+
+### About
+
+<b>Help</b> `pulse` - No definition provided<br>
+<b>Version</b> `str` - No definition provided<br>
+<b>.tox Save Build</b> `str` - No definition provided<br>
+
+## Static
+
+<img src="Static.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Grain intensity</b> `float` - No definition provided<br>
+<b>Size</b> `float` - No definition provided<br>
+<b>Blur</b> `float` - No definition provided<br>
+<b>Monochrome</b> `toggle` - No definition provided<br>
+<b>Operation</b> `menu` - No definition provided<br>
+
+### Level
+
+<b>Invert</b> `float` - No definition provided<br>
+<b>Black Level</b> `float` - No definition provided<br>
+<b>Brightness 1</b> `float` - No definition provided<br>
+<b>Gamma 1</b> `float` - No definition provided<br>
+<b>Contrast</b> `float` - No definition provided<br>
+<b>Opacity</b> `float` - No definition provided<br>
+
+## Stop Motion
+
+<img src="Stop Motion.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Stepsize</b> `int` - No definition provided<br>
+
+## Strobe
+
+<img src="Strobe.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Strobe
+
+<b>Audio source</b> `op` - No definition provided<br>
+<b>Threshold</b> `float` - No definition provided<br>
+<b>Smoothing</b> `float` - No definition provided<br>
+<b>Intensity</b> `float` - No definition provided<br>
+
+## Threshold
+
+<img src="Threshold.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Threshold
+
+<b>Comparator</b> `menu` - No definition provided<br>
+<b>RGB</b> `menu` - No definition provided<br>
+<b>Threshold</b> `float` - No definition provided<br>
+<b>Alpha</b> `menu` - No definition provided<br>
+<b>Soften</b> `float` - No definition provided<br>
+<b>Multiply color</b> `toggle` - No definition provided<br>
+
+## Tilt Shift
+
+<img src="Tilt Shift.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Type</b> `menu` - No definition provided<br>
+<b>Position</b> `float` - No definition provided<br>
+<b>Rotate</b> `float` - No definition provided<br>
+<b>Width</b> `float` - No definition provided<br>
+<b>Blur width</b> `int` - No definition provided<br>
+
+## Vignette
+
+<img src="Vignette.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Custom
+
+<b>Vignette intensity</b> `float` - No definition provided<br>
+<b>Vignette width</b> `float` - No definition provided<br>
+<b>Softness</b> `float` - No definition provided<br>
+
+## Volumetric Light
+
+<img src="Volumetric Light.jpg" width="300"><br>
 
 
 
@@ -687,18 +818,4 @@ Vector Color: Displays RG Vector Map instead.<br>
 <b>Density</b> `float` - No definition provided<br>
 <b>Exposure</b> `float` - No definition provided<br>
 <b>Samples</b> `int` - No definition provided<br>
-
-## Chromatic_Aberration
-
-
-
-### Parameters
-
-### Image
-
-<b>Aberration method</b> `menu` - No definition provided<br>
-<b>Red offset </b> `float` - No definition provided<br>
-<b>Green offset</b> `float` - No definition provided<br>
-<b>Blue offset</b> `float` - No definition provided<br>
-<b>Distortion factor</b> `float` - No definition provided<br>
 

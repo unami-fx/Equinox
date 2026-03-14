@@ -8,7 +8,7 @@ Effects are post-production tools that are designed to manipulate visuals in rea
 
 ### Master effects chain
 
-<p>The master effects chain is the main effects pipeline of your project. Parameterized effects can be added onto the pipeline, where you can edit the video to how you wish. Effects can be rearranged, customized, and automated.</p>
+The master effects chain is the main effects pipeline of your project. Parameterized effects can be added onto the pipeline, where you can edit the video to how you wish. Effects can be rearranged, customized, and automated.
 
 ![img](../assets/guide/master-fx-chain.png)<br>
 <small>The master effect chain with listed effects.</small>
@@ -17,7 +17,7 @@ Effects are post-production tools that are designed to manipulate visuals in rea
 
 ![img](../assets/guide/effects-library.png)
 
-The effects library is a collection of effects that can be applied to media. It is located on the right side of the bottom deck of the VJ.
+The effects library is a collection of effects that can be applied to media. It is located in the explorer window.
 
 ### Adding effects
 
@@ -34,6 +34,16 @@ From left to right:
 - __Lock__ - Disables editing of the effect.<br>
 - __Eye__ - Toggle whether the effect is active. Turn off to disable cooking.<br>
 - __X__ - Delete the effect from the FX chain.<br>
+
+### Effect presets
+
+You can collapse effect chains into an effect preset, which can be loaded for future use. Effect presets are stored as .json files. To save a preset, navigate to the top of the chain, select "Save", and an explorer will prompt you to save the preset. To load a preset, select "Load", and open the preset .json file. Equinox will attempt to load the effect preset onto the chain.
+
+![preset](../assets/guide/save-preset.png)
+
+### Preset slots
+
+TBA
 
 ### Adding custom effects
 

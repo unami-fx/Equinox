@@ -483,7 +483,7 @@
 <b>Version</b> `str` - No definition provided<br>
 <b>.tox Save Build</b> `str` - No definition provided<br>
 
-## ASCII_Legacy
+## ASCII Legacy
 
 
 
@@ -514,7 +514,7 @@
 <b>Translate</b> `uvw2` - Offsets the UV coordinates.<br>
 <b>Extend Mode</b> `menu` - How to handle UV coordinates outside the 0..1 range.<br>
 
-## RGB_Halftone
+## RGB Halftone
 
 
 
@@ -548,7 +548,7 @@
 
 <b>Background Color</b> `rgba4` - No definition provided<br>
 
-## Blob_Tracking
+## Blob Tracking
 
 
 
@@ -612,13 +612,13 @@
 <b>Lag intensity</b> `float` - No definition provided<br>
 <b>Input Smoothness</b> `menu` - No definition provided<br>
 
-## Glitch_Pixelation
+## Glitch Pixelation
 
 
 
 ### Parameters
 
-## Motion_Extraction
+## Motion Extraction
 
 
 
@@ -633,7 +633,7 @@
 
 <b>Feedback</b> `float` - No definition provided<br>
 
-## Time_Displacement
+## Time Displacement
 
 
 

@@ -31,9 +31,18 @@ nav:
     - Output: guide/output.md
     - Exports: guide/export.md
   - Effects:
+    - Cards: effects/Cards.md
+    - Devices: effects/Devices.md
     - Filters: effects/Filters.md
     - Post: effects/Post.md
     - Shaders: effects/Stylize.md
+    - Distort: effects/Distort.md
+    - Generators: effects/Generators.md
+    - Grading: effects/Grading.md
+    - Keying: effects/Keying.md
+    - NVIDIA: effects/NVIDIA.md
+    - Shapes: effects/Shapes.md
+    - Tonemapping: effects/Tonemapping.md
   - Downloads: downloads.md
   - Release notes: changelog.md
   - Contact: contact.md

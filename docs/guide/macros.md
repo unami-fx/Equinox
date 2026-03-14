@@ -1,12 +1,17 @@
 # Macros
 
-<p>The macro system is a collection of controllers that output a signal. Macros can be programmed to modulate multiple effects and parameters simultaneously, on command.</p>
+The macro system is a collection of controllers that output a signal. Macros can be programmed to modulate multiple effects and parameters simultaneously, on command.
 
 ### Triggers
+
+![m](../assets/guide/triggers.png)<br>
+
 
 Triggers are macros that have an on/off state. There are two types of triggers: momentary and toggle.
 
 ### Knobs & Sliders
+
+![m](../assets/guide/sliders.png)<br>
 
 Knobs and sliders are used for fine control of parameters.
 
@@ -25,3 +30,18 @@ To configure macros, right-click on the macro and select 'Macro options'. This w
 - __Name__ - Name of macro
 - __Color__ - Adjust hue of macro
 - __Min__ - Clamp min value
+
+#### MIDI LINK
+
+Macros can be bound to a midi channel. Steps:
+
+1. Turn on MIDI Learn (found on the top bar of the VJ)
+
+2. Click on the macro you wish to bind.
+
+3. Interact with the desired MIDI controller. The macro will automatically be bound to the corresponding MIDI channel.
+
+### Macro presets
+
+TBA
+
