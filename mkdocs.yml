@@ -35,7 +35,7 @@ nav:
     - Devices: effects/Devices.md
     - Filters: effects/Filters.md
     - Post: effects/Post.md
-    - Shaders: effects/Stylize.md
+    - Shaders: effects/Shaders.md
     - Distort: effects/Distort.md
     - Generators: effects/Generators.md
     - Grading: effects/Grading.md

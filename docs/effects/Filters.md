@@ -661,6 +661,23 @@
 <b>Reset</b> `pulse` - No definition provided<br>
 <b>Version</b> `str` - No definition provided<br>
 
+## Threshold
+
+<img src="Threshold.jpg" width="300"><br>
+
+
+
+### Parameters
+
+### Threshold
+
+<b>Comparator</b> `menu` - No definition provided<br>
+<b>RGB</b> `menu` - No definition provided<br>
+<b>Threshold</b> `float` - No definition provided<br>
+<b>Alpha</b> `menu` - No definition provided<br>
+<b>Soften</b> `float` - No definition provided<br>
+<b>Multiply color</b> `toggle` - No definition provided<br>
+
 ## Tile
 
 <img src="Tile.jpg" width="300"><br>
